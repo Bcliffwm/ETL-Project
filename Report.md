@@ -1,6 +1,6 @@
 The original data for this project were scraped from a dataset on homelessness in the U.S. from kaggle.com and from a dataset on
-substance abuseby geographic region from the Substance Abuse and Mental Health Administration (SAMHSA) website. The format for both
-datasets were in CSV and the SAMHSA datasets were broken down into their own separate files since the entire zip carried extraneous data
+substance abuse by geographic region from the Substance Abuse and Mental Health Administration (SAMHSA) website. The format for both
+datasets were in CSV. The SAMHSA datasets were broken down into their own separate files since the entire zip carried extraneous data
 and the individual files needed to have UTF-8 encoding. 
 
 The datasets were primarily cleaned using Microsoft Excel to remove extraneous headers. Once the data was read into a Jupyter
